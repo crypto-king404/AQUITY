@@ -1,4 +1,4 @@
-# AQUITI
+# AQUITY
 
 A Comprehensive water quality tool to visualize, track, and predict water quality levels in bodies of water throughout multiple countries
 
@@ -8,7 +8,7 @@ A Comprehensive water quality tool to visualize, track, and predict water qualit
 
 # Name
 
-AQUITI - QUALITY OF WATER
+AQUITY - QUALITY OF WATER
 
 # Description
 
@@ -16,7 +16,7 @@ A comprehensive water quality tool to visualize, track, and predict water qualit
 
 Our platform combines real-time water quality tracking and predictive analytics, integrating data from 11 sources to provide live water quality indices. Our predictive model, trained on 18,000+ data points, offers 99.7% accuracy in predicting water quality, presented through intuitive visuals for various stakeholders.
 
-# Installation
+# Additional stuff
 
 1. Clone the entire repo into a directory of your choice. 
 2. Add in your own API keys for Google Cloud, then run the model_training.py file to develop the model.
