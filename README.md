@@ -3,8 +3,8 @@
 A Comprehensive water quality tool to visualize, track, and predict water quality levels in bodies of water throughout multiple countries
 
 # Contributors:
-Sohan Hajra
-Josh Fernando
+1) Sohan Hajra
+2) Josh Fernando
 
 # Name
 
