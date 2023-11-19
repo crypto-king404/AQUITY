@@ -28,6 +28,7 @@ Our platform combines real-time water quality tracking and predictive analytics,
 
 # Support
 Please contact us at one of the following emails if you have any questions.
+
 sbh6033@psu.edu/sohancollege27@gmail.com
 fernandorafaeljosh@gmail.com
 
