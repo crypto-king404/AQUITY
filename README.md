@@ -38,4 +38,4 @@ fernandorafaeljosh@gmail.com
 - **Community Engagement:** Foster community involvement, awareness, and data collection through user-friendly mobile apps and educational initiatives.
 - **Policy Advocacy:** Utilize insights to influence policies and regulations for improved water quality management.
 
-![AR Experience](https://github.com/jhinericusername/waterviewpkwy/blob/96bc7ae511e76c6c1ac7548fc8fcf973d63af951/AR/IMG_0114.png)
+![AR Experience](AR experience.png)
