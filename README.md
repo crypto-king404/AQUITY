@@ -4,11 +4,10 @@ A Comprehensive water quality tool to visualize, track, and predict water qualit
 
 # Contributors:
 1) Sohan Hajra
-2) Josh Fernando
 
 # Name
 
-AQUITY - QUALITY OF WATER
+AQUITY - INSPECT ELEMENT FOR WATER
 
 # Description
 
@@ -29,8 +28,6 @@ Our platform combines real-time water quality tracking and predictive analytics,
 Please contact us at one of the following emails if you have any questions.
 
 sbh6033@psu.edu/sohancollege27@gmail.com
-
-fernandorafaeljosh@gmail.com
 
 # Roadmap / Future Plans
 
