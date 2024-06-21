@@ -2,8 +2,7 @@
 
 A Comprehensive water quality tool to visualize, track, and predict water quality levels in bodies of water throughout multiple countries
 
-# Contributors:
-1) Sohan Hajra
+# Contributors: Sohan Hajra
 
 # Name
 
